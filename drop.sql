@@ -1,0 +1,6 @@
+DROP TABLE TSC;
+DROP TABLE students;
+DROP TABLE teachers;
+DROP TABLE courses;
+
+DROP DATABASE School2;
